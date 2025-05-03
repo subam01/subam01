@@ -1,4 +1,3 @@
-![GitHub Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 ### Hi there 👋
 
 I'm Subam, a B.Tech student specializing in Artificial Intelligence and Machine Learning. I have a passion for web development and enjoy creating innovative solutions.
